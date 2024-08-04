@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm <b>Hira Alvi</b></h1>
 <h3 align="center">I'm a SAP Technical Consultant / SAP B1 / SAP S4/HANA / ABAP </h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mehfooz201&label=Profile%20views&color=0e75b6&style=flat" alt="mehfooz201" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=HiraAlvi0&label=Profile%20views&color=0e75b6&style=flat" alt="HiraAlvi0" /> </p>
 
-<p align="left"> <a href="https://twitter.com/mehfooz_ali1" target="blank"><img src="https://img.shields.io/twitter/follow/mehfooz_ali1?logo=twitter&style=for-the-badge" alt="mehfooz_ali1" /></a> </p>
+**<p align="left"> <a href="https://twitter.com/mehfooz_ali1" target="blank"><img src="https://img.shields.io/twitter/follow/mehfooz_ali1?logo=twitter&style=for-the-badge" alt="mehfooz_ali1" /></a> </p>**
 
 - 🔭 I’m currently working on [Mehran Services](http://mstaxsolution.com/)
 
