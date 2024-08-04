@@ -5,15 +5,13 @@
 
 <p align="left"> <a href="https://www.linkedin.com/in/hiraalvi0/" target="blank"><img src="https://img.shields.io/twitter/follow/hiralvi0?logo=twitter&style=for-the-badge" alt="hiralvi0" /></a> </p>
 
-- 🔭 I’m currently working on https://global-supernova.com/
+- 🔭 I’m currently working on [SuperNova](https://global-supernova.com/)
 
-- 🌱 I’m currently learning **Django Back-End Development & Artificial Intelligence (AI, ML,DP)**
+- 🌱 I’m currently learning **Advance Business Application Programming & Flutter Developer**
 
-- 💬 Ask me about **HTML, CSS, JavaScript, Bootstrap, Python, Java, Django**
+- 💬 Ask me about **ABAP, SQL, Flutter, Dart, HTML, CSS, JavaScript, Bootstrap, Python, Java**
 
 - 📫 How to reach me **hiraalvi49@gmail.com**
-
-- 📄 Know about my experiences [https://mprofile.mstaxsolution.com/](https://mprofile.mstaxsolution.com/)
 
 - ⚡ Fun fact **A machine that turns "coffee" into "code"**
 
